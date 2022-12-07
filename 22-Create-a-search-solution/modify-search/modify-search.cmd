@@ -1,8 +1,8 @@
 @echo off
 
 rem Set values for your Search service
-set url=YOUR_SEARCH_URL
-set admin_key=YOUR_ADMIN_KEY
+set url=https://adm3cognitivesearch.search.windows.net
+set admin_key=fTUyrN0Me0KvahMpWcVSuPWJtQwGY0xarhYQPbWtgUAzSeC0nrQ6
 
 echo -----
 echo Updating the skillset...

@@ -3,7 +3,7 @@
     "description" : "Documents for search.",  
     "type" : "azureblob",
     "credentials" :
-    { "connectionString" : "YOUR_CONNECTION_STRING"
+    { "connectionString" : "DefaultEndpointsProtocol=https;AccountName=ai102str2200714165;AccountKey=/G/06qVO06lMG9F3MYyW/lBmCYF80kAWRa6603BFw0oVGPYDzS0R/Se1oGWZADmPdP9pGFamfnBm+AStx2bLYw==;EndpointSuffix=core.windows.net"
     },  
     "container" : { "name" : "margies" }
 } 

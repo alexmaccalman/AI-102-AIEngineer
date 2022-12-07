@@ -1,3 +1,7 @@
+# Dev Container for AI Engineer
+[repository](https://codeberg.org/mingote/ms-ai-102-lab-env)  
+
+
 # AI-102: AI Engineer
 
 This repo contains the lab instructions and files used in Microsoft Official Curriculum course AI-102.

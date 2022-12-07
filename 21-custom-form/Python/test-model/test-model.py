@@ -24,8 +24,7 @@ def main():
 
         # Test trained model with a new form 
         with open('test1.jpg', "rb") as f: 
-            poller = form_recognizer_client.begin_recognize_custom_forms(
-                model_id=model_id, form=f)
+            poller = form_recognizer_client.begin_recognize_custom_forms(model_id=model_id, form=f)
 
         result = poller.result()
 
