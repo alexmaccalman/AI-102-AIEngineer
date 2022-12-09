@@ -2,7 +2,7 @@
 
 rem Set values for your Search service
 set url=https://ai102srch2200714165.search.windows.net
-set admin_key=A96Dj3EG30MOGy11ZuK1OTZ6AWJNE3574JGsUmDvo7AzSeBLfGXH
+set admin_key=ENTER_ADMIN_KEY
 
 echo -----
 echo Updating the skillset...
